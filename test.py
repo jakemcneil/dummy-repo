@@ -1,2 +1,2 @@
 import requests
-print(yo)
+print(yo2)
